@@ -1,2 +1,2 @@
 # apachecon-2020
-ApacheCon 2020 stuff
+For now this is just meant to store a (quickly hacked) full-page schedule for this conference.
